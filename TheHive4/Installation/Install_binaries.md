@@ -373,7 +373,7 @@ Copy the systemd script  in `/etc/systemd/system/thehive.service`.
 
 ```bash
 cd /tmp
-wget https://github.com/TheHive-Project/TheHive/blob/master/package/thehive.service
+wget https://raw.githubusercontent.com/TheHive-Project/TheHive/master/package/thehive.service
 cp thehive.service /etc/systemd/system/thehive.service
 ```
 
